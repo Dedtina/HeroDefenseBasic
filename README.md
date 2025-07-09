@@ -31,14 +31,16 @@
 
 ## UI Elements
 - **Main Menu:** Play, Exit.
-- **Shop Panel:**
-- **Health bar:**
-- **Potion Cooldown:**
+- **Shop Panel**
+- **Health bar**
+- **Potion Cooldown**
 
 ---
-Full Project: https://drive.google.com/file/d/1HhZxLhYXbjurshNrEWdeIqssgC04Jwcz/view?usp=drive_link
-Demo: https://youtu.be/PR9PNpq1H7A
-
+- **Full Project:** https://drive.google.com/file/d/1HhZxLhYXbjurshNrEWdeIqssgC04Jwcz/view?usp=drive_link
+- **Demo:** https://youtu.be/PR9PNpq1H7A
+  
+---
+## Animation
 - Smooth transitions for player and enemy attacks.
 - Visual feedback for damage.
 
